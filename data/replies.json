@@ -1,0 +1,3062 @@
+[
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T10:10:46.000Z",
+            "id": "1411266156695068672",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/O3edWfQMr6"
+        },
+        "matching_rules": [
+            {
+                "id": 1411266003971964953,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T10:12:52.000Z",
+            "id": "1411266686250938368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Twomad\nSaturday, July 3\nDoggy style https://t.co/a8xmHTY2WS"
+        },
+        "matching_rules": [
+            {
+                "id": 1411266003971964961,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T10:13:11.000Z",
+            "id": "1411266764407717891",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad among us happy meal video when? https://t.co/GhduNwKsRZ"
+        },
+        "matching_rules": [
+            {
+                "id": 1411266003971964953,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T10:19:43.000Z",
+            "id": "1411268407207542785",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Tyler1 cosplay https://t.co/3zrkkX9l5m"
+        },
+        "matching_rules": [
+            {
+                "id": 1411268031582404616,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T10:20:42.000Z",
+            "id": "1411268654952550406",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/A74W8erK4q"
+        },
+        "matching_rules": [
+            {
+                "id": 1411268031582404625,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T10:42:04.000Z",
+            "id": "1411274031865597957",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad you're looking good, King https://t.co/XH6eyLiAJE"
+        },
+        "matching_rules": [
+            {
+                "id": 1411273997312876565,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T10:42:48.000Z",
+            "id": "1411274216331255814",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Chengskiii @twomad https://t.co/KbnpwnKAbS"
+        },
+        "matching_rules": [
+            {
+                "id": 1411273997312876572,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T10:43:12.000Z",
+            "id": "1411274320215785475",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad My man lookin like a lego figure https://t.co/C1Bi3hOY7l"
+        },
+        "matching_rules": [
+            {
+                "id": 1411273997312876565,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T11:01:23.000Z",
+            "id": "1411278894938955776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Opinion on commicaly large spoon? https://t.co/O0jyglIyGm"
+        },
+        "matching_rules": [
+            {
+                "id": 1411278713048604674,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T11:01:30.000Z",
+            "id": "1411278925100032000",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/VDngMdd4An"
+        },
+        "matching_rules": [
+            {
+                "id": 1411278713048604674,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T11:36:11.000Z",
+            "id": "1411287653798973442",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad ghg https://t.co/GmZfIWKoSh"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047897,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T11:40:51.000Z",
+            "id": "1411288825683496969",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/aUSsncsshW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047899,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T11:42:05.000Z",
+            "id": "1411289135562715144",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/QHqUbm6wyw"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047903,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T11:45:52.000Z",
+            "id": "1411290091360772097",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/s9Q4CCsvjD"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047899,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T11:49:51.000Z",
+            "id": "1411291092696416256",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/RXwweUDrai"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047897,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T11:54:08.000Z",
+            "id": "1411292168577339397",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Twomad, what\u2019s the mic you\u2019re using here? https://t.co/Jb0aCI96sw"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047897,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T12:04:07.000Z",
+            "id": "1411294681124655105",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@LmaoClex @twomad https://t.co/EK3PMdso3J"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047899,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T12:07:07.000Z",
+            "id": "1411295439140409345",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/KH907qnRyK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047899,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T12:08:00.000Z",
+            "id": "1411295661480349696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@FN_MC_Steve @Deaadly2 @JuanStamosYT @twomad https://t.co/y4naDeCkdg"
+        },
+        "matching_rules": [
+            {
+                "id": 1411284747444047881,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T12:46:27.000Z",
+            "id": "1411305335986348033",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/OjbMRSPkuR"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T12:48:16.000Z",
+            "id": "1411305791777300484",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/XoGG7RuOA7"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410871669883764737",
+            "created_at": "2021-07-03T12:48:38.000Z",
+            "id": "1411305886958731271",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@xxxtenticels @Truxej @ElieBERGER3 @twomad FUCKS SAKE https://t.co/RWLREti5ew"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898188,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T13:02:51.000Z",
+            "id": "1411309461591973890",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@_Danque_ @cobiscool @twomad Black Jack https://t.co/qABMS7jVcH"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T13:08:51.000Z",
+            "id": "1411310971956596738",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/uqFVdduCHI"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T13:14:08.000Z",
+            "id": "1411312301051977730",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@thrillheaux @twomad stolen https://t.co/qyIq6ZEFW9"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T13:16:12.000Z",
+            "id": "1411312824605872130",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/iImezLVT1z"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T13:19:21.000Z",
+            "id": "1411313617392193541",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/sWoYM6bZuv"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T13:30:50.000Z",
+            "id": "1411316507053740032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/UR3r0vJRNf"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898194,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241589368782848",
+            "created_at": "2021-07-03T13:37:20.000Z",
+            "id": "1411318141351862275",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/W8UogQzvl5"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898189,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410821270007123968",
+            "created_at": "2021-07-03T13:46:19.000Z",
+            "id": "1411320401981018113",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/5hFUElCbOv"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898184,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T13:49:42.000Z",
+            "id": "1411321253689016324",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/Z3VU1FCmzb"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T13:52:33.000Z",
+            "id": "1411321971690835973",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Carpmin3 @twomad @PepsiFacts https://t.co/hFxrllYrSP"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T13:53:23.000Z",
+            "id": "1411322182211444739",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad why is your face shaped like LALA from final fantasy https://t.co/on7lI4dgmV"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241589368782848",
+            "created_at": "2021-07-03T13:53:33.000Z",
+            "id": "1411322220853424133",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Metritox1 @eggsucke @twomad Omni-man got that double Dutch https://t.co/7eST88JdYl"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898189,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:07:24.000Z",
+            "id": "1411325709197451265",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/LMfcCgx3Vm"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T14:09:36.000Z",
+            "id": "1411326262233153537",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/C6uVUyBHSK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:20:54.000Z",
+            "id": "1411329105132462080",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad hmmm yes very good https://t.co/Xm01lzf9XW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:32:27.000Z",
+            "id": "1411332012829556740",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/OIbz0mINAh"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:35:31.000Z",
+            "id": "1411332784480735236",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/J3NUemtdqX"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:47:04.000Z",
+            "id": "1411335687996162049",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/XJv0AHOs2V"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241589368782848",
+            "created_at": "2021-07-03T14:48:54.000Z",
+            "id": "1411336150715879431",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/7oepccXPw1"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898189,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T14:48:59.000Z",
+            "id": "1411336170345156610",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/NZl74j3qAF"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T14:57:07.000Z",
+            "id": "1411338218717564931",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/ES9HGEpQoW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T15:10:13.000Z",
+            "id": "1411341516417777667",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@xgall2 @twomad https://t.co/oerVVZ0sgK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T15:12:32.000Z",
+            "id": "1411342099455299585",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/eATbSSGnLt"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1409751664240726029",
+            "created_at": "2021-07-03T15:13:42.000Z",
+            "id": "1411342392519757826",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/LZSm6pTObO"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898192,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T15:21:59.000Z",
+            "id": "1411344476111392768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/TJJpACkCZP"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T15:43:45.000Z",
+            "id": "1411349953163796487",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad FNaF at freDDYs https://t.co/lxu9tMKfVG"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T15:48:43.000Z",
+            "id": "1411351205696184322",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Bigdickmuthafuckinbitchhoe.mp4 https://t.co/JOzKa0FPn0"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T15:52:07.000Z",
+            "id": "1411352058427478020",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad @Zlashiee Amongus? https://t.co/ZKyY8RtxPX"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411276416868491264",
+            "created_at": "2021-07-03T15:57:28.000Z",
+            "id": "1411353407722565632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad @monkostone https://t.co/eX9sJq8gKW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898198,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T15:58:21.000Z",
+            "id": "1411353631027200001",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/GqqHCdZr5Z"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T15:59:59.000Z",
+            "id": "1411354040479461376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/R5x4qtrvyv"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898194,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T16:06:57.000Z",
+            "id": "1411355791207153673",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@tuttikazooti @hha38ednn @twomad Your video is ready. Do you want it removed? contact @/LuisMayoV https://t.co/7W5QSMcWwj"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898194,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:10:57.000Z",
+            "id": "1411356800809672708",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/8BEsQbXgpA"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:15:46.000Z",
+            "id": "1411358011248066560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/CEnDYLz2DH"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410821270007123968",
+            "created_at": "2021-07-03T16:20:45.000Z",
+            "id": "1411359266330480646",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@mosdfkrjrn @twomad https://t.co/EcItvy92DC"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898184,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:26:11.000Z",
+            "id": "1411360632407011330",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/gzNFNDdw1l"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411241847544946690",
+            "created_at": "2021-07-03T16:26:42.000Z",
+            "id": "1411360765278294021",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad There are only 2 genders https://t.co/Y9whxI4f5f"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898194,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:27:16.000Z",
+            "id": "1411360904814514183",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/vnIZIAvCBc"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-03T16:36:25.000Z",
+            "id": "1411363207860600833",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad I been summoned https://t.co/RNUxB3ChS4"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898185,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:37:40.000Z",
+            "id": "1411363525415653379",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/fpWN9rveAo"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:38:12.000Z",
+            "id": "1411363658345508866",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Thank god I didn\u2019t miss it, thank you Twitter https://t.co/Ha5lFRZm00"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411145426925850624",
+            "created_at": "2021-07-03T16:57:17.000Z",
+            "id": "1411368459057778688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/mssNcsazBj"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898193,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:58:22.000Z",
+            "id": "1411368734149709825",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@rodo19629953 @twomad https://t.co/DtJay8uDSH"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T16:59:41.000Z",
+            "id": "1411369064207892480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Chungus https://t.co/fnLWb8az3B"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-03T17:00:01.000Z",
+            "id": "1411369149377429508",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/zANZqnSh70"
+        },
+        "matching_rules": [
+            {
+                "id": 1411304886398898183,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1410869230568763392",
+            "created_at": "2021-07-04T06:11:59.000Z",
+            "id": "1411568453757059072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/Ajqy4zKamC"
+        },
+        "matching_rules": [
+            {
+                "id": 1411560541772943385,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:04.000Z",
+            "id": "1411582819940409345",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/i6JFxYpf7k"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:14.000Z",
+            "id": "1411582861862268935",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad What da dog doin https://t.co/f5cetFxpuJ"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:16.000Z",
+            "id": "1411582870506786817",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/Ry9I6GoE2p"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:17.000Z",
+            "id": "1411582872708804616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Goomba retard bone https://t.co/wUezSU22C2"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:20.000Z",
+            "id": "1411582885572743170",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/c717G0yiFK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:21.000Z",
+            "id": "1411582889742028800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/NmOUyHj10p"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:23.000Z",
+            "id": "1411582898998755328",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/v4XQwluKCe"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:42.000Z",
+            "id": "1411582975771246596",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@LiamCraft5 @twomad No https://t.co/SOPhG7KEeJ"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:09:50.000Z",
+            "id": "1411583010537943040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/nhlzAEwDjl"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:10:00.000Z",
+            "id": "1411583053005209603",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/JRoHhkEyFD"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:10:17.000Z",
+            "id": "1411583123989712898",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/KF5fwif4c0"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:10:19.000Z",
+            "id": "1411583134253125634",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad what the tandem e brake drift doin https://t.co/30bNTE93tz"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:10:21.000Z",
+            "id": "1411583141299605506",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/0m9CfLVY1e"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:10:29.000Z",
+            "id": "1411583175126552576",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/p0f5u5Twgt"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:11:04.000Z",
+            "id": "1411583321205874692",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/uhvoXjcvY9"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:13:21.000Z",
+            "id": "1411583895569678338",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/DFveGiRLaF"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:13:47.000Z",
+            "id": "1411584007209459712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad 2 https://t.co/oEYsaHSVit"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:14:09.000Z",
+            "id": "1411584099232272386",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/lUF1YF9jLn"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:14:57.000Z",
+            "id": "1411584297929220096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/EcH915thOs"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411225426584764420",
+            "created_at": "2021-07-04T07:15:36.000Z",
+            "id": "1411584464333967360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/sZrMfQOqHB"
+        },
+        "matching_rules": [
+            {
+                "id": 1411560541772943363,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:16:50.000Z",
+            "id": "1411584773361836034",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Goombmad https://t.co/y5r2jmcPG2"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:17:15.000Z",
+            "id": "1411584877821059074",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Tuff https://t.co/JDfwbaDpfS"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:17:48.000Z",
+            "id": "1411585017348755460",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/vwSlQg8SL7"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:17:50.000Z",
+            "id": "1411585023497572358",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@_defiance_yt @twomad https://t.co/7rL3vJGFon"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:19:32.000Z",
+            "id": "1411585451106910208",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/EgMhsJLMSP"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:19:46.000Z",
+            "id": "1411585510024396804",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad noomba https://t.co/7lJTDTOD2b"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:21:55.000Z",
+            "id": "1411586051982901251",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/O9cJS8uE8k"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:22:06.000Z",
+            "id": "1411586099655417858",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@politecat11 @twomad https://t.co/UwgNezYnXs"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:23:06.000Z",
+            "id": "1411586350395056129",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/UPWj5y3FTU"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:24:15.000Z",
+            "id": "1411586639504289792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad There you go https://t.co/YwaIuFrVHj"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:30:42.000Z",
+            "id": "1411588264629202948",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/d8SRhOCDb0"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:33:29.000Z",
+            "id": "1411588964973039621",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/9XLLXn5KQB"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:38:17.000Z",
+            "id": "1411590170290245635",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad good morning Kanye https://t.co/fWffwtzqtX"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:48:40.000Z",
+            "id": "1411592782989381632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/GriGZ7cmDK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:50:47.000Z",
+            "id": "1411593315712045063",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad happy man https://t.co/sskPEmyFzm"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:51:56.000Z",
+            "id": "1411593605924503552",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/UqwTfnXlqC"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:56:22.000Z",
+            "id": "1411594722078978048",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/UpOfCAs498"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:56:27.000Z",
+            "id": "1411594744178745348",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/vfSucZ28HN"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:56:48.000Z",
+            "id": "1411594830548025345",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/PohDyuarEl"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T07:57:18.000Z",
+            "id": "1411594955013820416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/hx1ft3DQo6"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T08:02:12.000Z",
+            "id": "1411596190190235653",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/xAif558dUq"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T08:02:25.000Z",
+            "id": "1411596243038445574",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/hlew245nTA"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T08:02:59.000Z",
+            "id": "1411596387695820804",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/y6XO6SFMmr"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:06:15.000Z",
+            "id": "1411597207904690176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/qGWK8YEJWJ"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:06:16.000Z",
+            "id": "1411597214523138054",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/S6VAkDOeLd"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:06:17.000Z",
+            "id": "1411597216364515333",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/U8aXZMeUbT"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:06:22.000Z",
+            "id": "1411597240075014145",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/z79LH9IrmF"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:06:47.000Z",
+            "id": "1411597342403219458",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/z2rBh8ueIv"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:07:03.000Z",
+            "id": "1411597410502004740",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/NPVZ0ph5pH"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:07:11.000Z",
+            "id": "1411597442676453377",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/qhZIhYmCmG"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:07:23.000Z",
+            "id": "1411597492584521728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad On deep deep pepperoni Pizza https://t.co/yNc1GgDxnn"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:08:12.000Z",
+            "id": "1411597699309195265",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/o7hU79Lk6f"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:08:31.000Z",
+            "id": "1411597777671540736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/4k8VQ0d8XT"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:08:33.000Z",
+            "id": "1411597788903665666",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/Q01TI3Piko"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:08:37.000Z",
+            "id": "1411597802547855361",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/WTiApIAZEz"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:09:53.000Z",
+            "id": "1411598121507901440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad PizSUS\n\nAnyway https://t.co/NbWHSehOIl"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:11:05.000Z",
+            "id": "1411598424529686530",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad \u201c$4 instead of $5?\u201d https://t.co/hl5UrNHwew"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:11:07.000Z",
+            "id": "1411598432989421576",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/xgj1AqT2vE"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:12:22.000Z",
+            "id": "1411598749848199173",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad What da dog doin https://t.co/IEc062EnKA"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:13:56.000Z",
+            "id": "1411599142502252548",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/xxkfZJVNP2"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:14:22.000Z",
+            "id": "1411599251314905093",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BaggedKawaii https://t.co/CygCuBDTrB"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:14:56.000Z",
+            "id": "1411599392214192130",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Abdullahkbh_ @twomad https://t.co/TGmILkUYjK"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:15:24.000Z",
+            "id": "1411599511848357890",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/BzKqK80sPS"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:15:25.000Z",
+            "id": "1411599517636497419",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Female twomad ? https://t.co/3WHpGIY730"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:15:33.000Z",
+            "id": "1411599547651010561",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/nMcB9LA0xR"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:15:33.000Z",
+            "id": "1411599549588668417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Abdullah the butcher bled for his fame https://t.co/hLGK96WCpp"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:15:36.000Z",
+            "id": "1411599560732971008",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/nujYGKf7Oz"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:15:39.000Z",
+            "id": "1411599574418870272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Say my name too mr two https://t.co/IBR9OmyxZB"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:16:02.000Z",
+            "id": "1411599671668228101",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/0ook5B6Hxr"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:17:38.000Z",
+            "id": "1411600075361382406",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Ratioed by your dad https://t.co/WcP1cQ0w69"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:17:41.000Z",
+            "id": "1411600084798787585",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/qM3ia32rrA"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:19:35.000Z",
+            "id": "1411600566162280448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad @TripsKicks https://t.co/YApFMbh4D1"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T08:20:05.000Z",
+            "id": "1411600691223728131",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad closest I got is goomba car https://t.co/V9pvFFgkYP"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:20:18.000Z",
+            "id": "1411600746458468354",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad bro hmu im trying to sell this im hustling https://t.co/VECwFDg1U2"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:22:15.000Z",
+            "id": "1411601234545491968",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad true https://t.co/LcFezPMAEX"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:23:48.000Z",
+            "id": "1411601624133423105",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/7X7N5Bho5h"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:25:20.000Z",
+            "id": "1411602012781920258",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/p37DTXWvsP"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:25:44.000Z",
+            "id": "1411602111406567431",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/Ng2INEAmlW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:26:26.000Z",
+            "id": "1411602288741867523",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/RzFHwqQokm"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:28:41.000Z",
+            "id": "1411602853026668546",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@iolineedssleep @nickv_e @Abdullahkbh_ @twomad I felt that no https://t.co/7g7eaLIaQy"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:32:21.000Z",
+            "id": "1411603776830541827",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad tf what the dog do- https://t.co/tBmgb4pRsW"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:38:44.000Z",
+            "id": "1411605383026823170",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad https://t.co/01NkQmcy9v"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411596974399180802",
+            "created_at": "2021-07-04T08:49:34.000Z",
+            "id": "1411608108762345472",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad @Void_Dot_Exe They be like https://t.co/Y0Lxzkntqf"
+        },
+        "matching_rules": [
+            {
+                "id": 1411597242524266498,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411582646925217798",
+            "created_at": "2021-07-04T08:52:00.000Z",
+            "id": "1411608721516548096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad \ud83d\udc36 https://t.co/G0eO3SEixp"
+        },
+        "matching_rules": [
+            {
+                "id": 1411582818178658312,
+                "tag": "reply"
+            }
+        ]
+    },
+    {
+        "data": {
+            "conversation_id": "1411599316301467650",
+            "created_at": "2021-07-04T08:57:57.000Z",
+            "id": "1411610220846006275",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@twomad Bo I whag gel boi https://t.co/ijyB8yIyVD"
+        },
+        "matching_rules": [
+            {
+                "id": 1411599522245971971,
+                "tag": "reply"
+            }
+        ]
+    }
+]
