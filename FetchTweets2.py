@@ -14,7 +14,7 @@ def main():
     consumer_key = open(os.path.dirname(__file__) + '/../consumerkey.txt').read()
     consumer_secret = open(os.path.dirname(__file__) + '/../consumersecret.txt').read()
 
-    fetch = FetchTweets(60, 3600, 240, 743662396892282881, "data", bearer_token, consumer_key, consumer_secret)
+    fetch = FetchTweets(60, 3, 240, 743662396892282881, "data", bearer_token, consumer_key, consumer_secret)
     
 class FetchTweets(object):
     def __init__(self, polling_interval, tweet_interval, save_interval, user_id, folder, bearer_token, consumer_key, consumer_secret):
@@ -33,7 +33,7 @@ class FetchTweets(object):
         self.api = TwitterAPI(bearer_token, "https://api.twitter.com/2/")
 
         self.since_tweet = None
-        self.set_rules_from_memory()
+        #self.set_rules_from_memory()
 
         if self.since_tweet is None:
             self.since_tweet = "1378046099697463297"
@@ -44,8 +44,10 @@ class FetchTweets(object):
             "openStream": threading.Thread(target=self.open_stream_thread, args=("openStream",)),
             "saveData": threading.Thread(target=self.save_data_thread, args=("saveData",))
         }
-        for thread in self.threads.values():
-            thread.start()
+        #for thread in self.threads.values():
+        #    thread.start()
+
+        self.send_tweet_thread("sendTweet")
         
     def set_rules_from_memory(self):
         self.api.clear_stream_rules()
@@ -109,21 +111,58 @@ class FetchTweets(object):
             time.sleep(self.polling_interval)
             
     def send_tweet_thread(self, name):
-        tweets = self.database.get_file("replies")
-        if tweets is None:
-            print("database is empty, exiting thread:", name)
-            return
-        
-        print(tweets)
+        self.database.add_file("retweets", [])
+        retweets = self.database.get_file("retweets")
+
+        query = "to:{} -is:verified has:media is:reply -is:retweet".format(self.user_id, self.user_id)
 
         while True:
+            tweets = {}
+            tweet_likes = []
+            next_token = None
+            tweet_count = 0
+            like_offset = 1
+            while True:
+                print("Fetching tweets, current tweets:", str(tweet_count))
+
+                try:
+                    response = self.api.search_tweets(query, "public_metrics,author_id", next_token)
+                except Exception as e:
+                    print("An error occurred, retrying.")
+
+                    with open("error_log.txt", 'a') as f:
+                        f.write(e)
+
+                for tweet in response["data"]:
+                    tweets[tweet["id"]] = tweet
+                    tweet_likes.append(tweet["public_metrics"]["like_count"] + like_offset)
+
+                tweet_count += response["meta"]["result_count"]
+
+                if tweet_count >= 500 or "next_token" not in response["meta"]:
+                    break
+
+                next_token = response["meta"]["next_token"]
+
+            print(tweets)
+
             if len(tweets) != 0:
-                tweet = random.choice(tweets)
+                while True:
+                    tweet_id = random.choices(list(tweets.keys()), weights = tweet_likes, k = 1)[0]
+                    tweet = tweets[tweet_id]
+                    del tweets[tweet_id]
+                    if tweet_id in retweets:
+                        continue
+                    retweets.append(tweet_id)
+                    break
+
                 print("printing tweet on thread:", name)
                 print(tweet)
 
-                #self.fetch.retweet(tweet["data"]["id"])
+                #self.fetch.retweet(tweet_id)
             
+            self.database.save()
+
             time.sleep(self.tweet_interval)
             
     def open_stream_thread(self, name):

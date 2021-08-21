@@ -103,3 +103,15 @@ class TwitterAPI(object):
     def get_stream(self, tweet_fields):
         params = {"tweet.fields": tweet_fields}
         return self.__connect_to_endpoint("tweets/search/stream", params=params, error_message="Cannot get stream", return_json=False, stream=True)
+
+    def get_tweet(self, id, tweet_fields):
+        params = {"tweet.fields": tweet_fields, "expansions": "referenced_tweets.id"}
+        return self.__connect_to_endpoint("tweets/" + str(id), params=params)
+
+    #search tweets endpoint----------------------------------------------------------------------------------
+    def search_tweets(self, query, tweet_fields, next_token=None):
+        params = {"query": query, "tweet.fields": tweet_fields, "max_results": 100}
+        if next_token:
+            params["next_token"] = next_token
+
+        return self.__connect_to_endpoint("tweets/search/recent", params=params, error_message="Cannot retrieve tweets")
